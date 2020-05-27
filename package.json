@@ -1,0 +1,27 @@
+{
+  "name": "lunr-netlify-search",
+  "version": "1.0.0",
+  "description": "A server rendered version of Lunr.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmikkelsen/lunr-netlify-search.git"
+  },
+  "keywords": [
+    "Search",
+    "SSG"
+  ],
+  "author": "Eric Mikkelsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericmikkelsen/lunr-netlify-search/issues"
+  },
+  "homepage": "https://github.com/ericmikkelsen/lunr-netlify-search#readme",
+  "dependencies": {
+    "lunr": "^2.3.8",
+    "netlify-cli": "^2.30.0"
+  }
+}
